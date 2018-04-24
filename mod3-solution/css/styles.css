@@ -1,0 +1,57 @@
+body{
+	background-color: #E3BC78;
+}
+
+#header-nav{
+	background-color: #DB1913;
+	border-radius: 0;
+	border: 0;
+}
+
+a.navbar-brand{
+	color: white;
+	padding: 5px;
+	position: absolute;
+	left: 30px;
+}
+
+a h1{
+	margin: 0;
+	color: white;
+	text-align: left;
+}
+
+
+#collapsable-nav{
+	background-color: #E6E68B;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+   border-width: 1px;
+   border-style: solid;
+}
+
+#chicken{
+	border-style: solid;
+    border-width: 1px;
+    background-color: #E6E68B;
+    margin: 20px;
+}
+
+#beef{
+	border-style: solid;
+    border-width: 1px;
+    background-color: #E6E68B;
+    margin: 20px;
+}
+
+#sushi{
+	border-style: solid;
+    border-width: 1px;
+    background-color: #E6E68B;
+    margin: 20px;
+}
+
+p{
+	font-size: 200px;
+}
